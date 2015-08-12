@@ -1,6 +1,9 @@
 # Comic-Unpacker
 Extracts every rar, zip, cbr, and cbz file in a directory.
 
+Note: I made this for my own personal use, and it works exactly how I intended it to. I most likely won't be updating it. So enjoy the bland interface. :D
+(You could always, ya know, fork the project and adjust it to your liking.)
+
 Download the exe here:
 https://www.dropbox.com/s/gsqtlza6fafcxpm/comicunpacker.zip?dl=0
 
